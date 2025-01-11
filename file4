@@ -1,2 +1,3 @@
 Thread Scheduler
 Is the part of JVM
+And responsible to schedule thread
